@@ -2,7 +2,7 @@
 ## Count the number of rice grains and number of broken rice grains
 
 
-This Notebook Aims to solve two objectives *Rocket*:
+This Notebook Aims to solve two objectives:
 
 * Objective 1: Count the number of rice grains in the Image.
 * Objective 2: Find the number of broken grains in the image.
